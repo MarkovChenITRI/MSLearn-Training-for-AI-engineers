@@ -1,2 +1,7 @@
 # Azure-AI-Services
-## ConversationAnalysisClient
+## Python
+### ConversationAnalysisClient
+* Install the Azure Conversations client library for Python with pip
+  ```bash
+  pip install azure-ai-language-conversations
+  ```
