@@ -3,12 +3,12 @@ networks:
     driver: bridge
 services:
   azure-form-recognizer-read:
-    container_name: azure-form-recognizer-read
+    container_name: azure-form-recognizer-layout
     environment:
     - EULA=accept
-    - billing=https://ces-ai-services.cognitiveservices.azure.com/
-    - apiKey=4dfe6939ce944e77a8d5a6ede0453244
-    image: mcr.microsoft.com/azure-cognitive-services/form-recognizer/read-3.1
+    - billing=https://ces-document-intelligence.cognitiveservices.azure.com/
+    - apiKey=30bfa09ff3fe426c83e434a921277770
+    image: mcr.microsoft.com/azure-cognitive-services/form-recognizer/layout-3.1
     networks:
     - ocrvnet
     ports:
