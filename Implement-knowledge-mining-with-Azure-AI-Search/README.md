@@ -12,4 +12,4 @@
 * Perform vector search and retrieval in Azure AI Search
 
 ### Appendix
-* [Lab files for Azure AI Language modules](https://github.com/MicrosoftLearning/mslearn-ai-language)
+* [Lab files for Azure AI Knowledge Mining modules](https://github.com/MicrosoftLearning/mslearn-knowledge-mining)
