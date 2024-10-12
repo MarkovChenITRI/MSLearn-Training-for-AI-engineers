@@ -1,4 +1,5 @@
 ## [Develop natural language processing solutions with Azure AI Services](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/)
+### Modules in this learning path
 * Analyze text with Azure AI Language
 * Create question answering solutions with Azure AI Language
 * Build a conversational language understanding model
