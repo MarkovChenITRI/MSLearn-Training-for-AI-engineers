@@ -7,3 +7,6 @@
 * Translate text with Azure AI Translator service
 * Create speech-enabled apps with Azure AI services
 * Translate speech with the Azure AI Speech service
+
+### Appendix
+* [Lab files for Azure AI Language modules](https://github.com/MicrosoftLearning/mslearn-ai-language)
